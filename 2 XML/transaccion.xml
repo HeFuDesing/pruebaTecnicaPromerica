@@ -1,0 +1,10 @@
+<transaccionTarjetaCredito>
+  <sistema nombre="Sistema1" locacion="Localización1">
+    <tarjetaCredito>
+      <numero>1234567890123456</numero>
+      <clienteId>987654321</clienteId>
+      <fechaExpiracion>12/25</fechaExpiracion>
+      <cvv>123</cvv>
+    </tarjetaCredito>
+  </sistema>
+</transaccionTarjetaCredito>
